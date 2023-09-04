@@ -17,8 +17,7 @@ main{
 
 .app {
    background-image: url('./assets/cold-bg.jpg');
-   background-size:auto;
-  background-repeat: no-repeat;
+   background-size:cover;
    background-position: bottom;
    transition: 0.4 ease ;
 }
